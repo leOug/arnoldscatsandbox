@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 6b77223fb1d321fd400ae9621833cf72acf1502d bender drupal.org deployment script <bender@jenkins1.drupal.org> 1471524638 +0000	clone: from https://github.com/stevenwanderski/bxslider-4.git
+6b77223fb1d321fd400ae9621833cf72acf1502d 49a59494c0769c67a7ed2afe35f096e6d6fc956d bender drupal.org deployment script <bender@jenkins1.drupal.org> 1471524639 +0000	checkout: moving from master to 49a59494c0769c67a7ed2afe35f096e6d6fc956d

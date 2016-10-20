@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 bd879003043b4a93b78cbd4a582b6e0650900bcb bender drupal.org deployment script <bender@jenkins1.drupal.org> 1471524640 +0000	clone: from https://github.com/btburnett3/jquery.ui.spinner.git
+bd879003043b4a93b78cbd4a582b6e0650900bcb bd879003043b4a93b78cbd4a582b6e0650900bcb bender drupal.org deployment script <bender@jenkins1.drupal.org> 1471524640 +0000	checkout: moving from master to bd879003043b4a93b78cbd4a582b6e0650900bcb
